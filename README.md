@@ -1,2 +1,3 @@
 # Lista-de-Exercicios-Python
 Exercícios de programação na linguagem Python.
+Pasta Exercícios - Python contém vários tipos de exemplos, como verificar se um número é par ou ímpar, calculo na fórmula de baskara, conversão de temperatura de celsius para fahrenheit, extrato de folha de pagamento com descontos, lados de um triangulo, loja de tintas, media de notas escolares, etc...
